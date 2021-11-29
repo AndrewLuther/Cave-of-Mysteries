@@ -1,0 +1,11 @@
+This code implements an original composition I created called "Cave Of Mysteries", and can
+be run in the Sonic Pi software, which uses a Ruby-based coding environment.
+
+In the Sonic Pi envronment, first run the "Functions" code and then run the "Form" code
+to hear the piece. The "Loop" code allows to hear a repeated loop of all the elements of the 
+piece.
+
+Thanks for listening!
+
+Created by: Andrew Luther
+Creation date: August 4th 2021
