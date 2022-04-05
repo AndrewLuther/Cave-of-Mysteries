@@ -2,7 +2,7 @@ Project: Cave of Mysteries
 Creator: Andrew Luther
 Creation Date: August 4th 2021
 
-This code implements an original composition I created called "Cave of Mysteries". The code can
+Cave of Mysteries implements an original composition I created. The code can
 be run in the Sonic Pi software, which uses a Ruby-based coding environment. Sonic Pi is a 
 code-based music-creation and performance tool. 
 
